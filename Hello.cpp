@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main(){
-  cout<<"This is my first git file!";
-  cout<<"This is fun";
+  cout<<"This is my first git file!"<<endl;
+  cout<<"This is fun"<<endl;
   }
